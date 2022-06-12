@@ -114,7 +114,7 @@ form{
 form [type="submit"]{
 
     padding: 30px;
-    background-color: rgba(238, 11, 11, 0.87);
+    background-color: rgb(238, 11, 11);
     color:white;
     font-weight: bold;
 
